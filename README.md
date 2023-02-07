@@ -36,7 +36,7 @@ Browser based multiplayer game inspired by Achtung die Kurve. Made in Unity3D us
 </details>
 
 <details>
-  <summary>Show Details</summary>
+  <summary>Some Technical Details</summary>
   <p>
   This is a game that I made for friends and myself, inspired by games like CurveFever and Achtung, die Kurve. I wanted a game where friends can just jump in without signing up or clicking through a three different menu screens before getting paralyzed by a ton of different game modes.
   </p>
