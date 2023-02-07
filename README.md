@@ -24,10 +24,8 @@ I love listening to music, while programming or reading or just because. My favo
 ### CurveMP, Achtung die Kurve
 
 Browser based multiplayer game inspired by Achtung die Kurve. Made in Unity3D using C# and peerjs for networking.
-<details>
-  <summary>Screenshot</summary>
-  <img src="TODO" alt="world2.PNG" />
-</details>
+
+<img src="https://raw.githubusercontent.com/skatala/portfolio/main/img/curve.png" alt="curve.PNG" />
 
 <details>
   <summary>How to play</summary>
@@ -57,10 +55,9 @@ Browser based multiplayer game inspired by Achtung die Kurve. Made in Unity3D us
 
 ### Password Generator
 
-<details>
-  <summary>Screenshot</summary>
-  <img src="TODO" alt="world2.PNG" />
-</details>
+
+<img src="https://raw.githubusercontent.com/skatala/portfolio/main/img/passwordgen.png" alt="passwordgen.PNG" />
+
 
 I wrote a small tool for generating secure and memorable passphrases by sampling words at random from language word lists. The program gives an estimation of security of the chosen parameters as well as double checks whether all individual words do not fall into a top 10k most frequent words subset.  
 
@@ -95,8 +92,8 @@ For anyone interested in some technical details:
 
 <details>
   <summary>Unpopulated World Screenshots</summary>
-  <img src="todo" alt="world2.PNG" />
-  <img src="todo" alt="world1.PNG" />
+  <img src="https://raw.githubusercontent.com/skatala/portfolio/main/img/world2.png" alt="world2.PNG" />
+  <img src="https://raw.githubusercontent.com/skatala/portfolio/main/img/world1.png" alt="world1.PNG" />
 </details>
 
 
@@ -105,7 +102,7 @@ For anyone interested in some technical details:
 
 <details>
   <summary>Screenshot</summary>
- <img src="todo" alt="digsim2.PNG" />
+ <img src="https://raw.githubusercontent.com/skatala/portfolio/main/img/digsim.png" alt="digsim.PNG" />
 </details>
 
 When I was 16 I programmed this masterpiece in JavaScript with the HTML canvas as the "engine". The game has a basic particle system and procedurally generated levels with ore veins. With each stage new ores get phased in and old ones get phased out. A friend of mine did the UI/CSS parts of it. You play as a blue square trying to mine as much downward as possible, craft bombs and use them. Upgrade your vision radius, bombs and drill. Every level has an Enemy in it, if it smells more cash on you than it has, it will come for you immediately, otherwise it will mind it's own business until you come close enough.  
@@ -133,7 +130,7 @@ The next university projects aren't really games for the sake of being games but
 One Project was about using 3D Pose estimation which resulted in this game:
 <details>
   <summary>Screenshot</summary>
- <img src="todo" alt="poseestimation.PNG" />
+ <img src="https://raw.githubusercontent.com/skatala/portfolio/main/img/poseestimation.png" alt="poseestimation.PNG" />
 </details>
   
 The gameplay consists of memorizing movements of how to move your arms to activate spells to defeat the enemies before they defeat you.  
